@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url("../images/dna.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: yellow
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: red;
+    border-color: red;
+    color: purple;
+}
+
+.panel-primary {
+    border-color: pink;
+}
